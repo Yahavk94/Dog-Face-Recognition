@@ -1,4 +1,4 @@
-# Dog-Face-Recognition
+# Dog Face Recognition
 A dog that goes missing is among many worst fears.
 
 Owners have a handful of ways to locate lost dogs, including collar tags and implanted microchips.
